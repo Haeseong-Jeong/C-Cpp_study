@@ -1,0 +1,8 @@
+﻿  function3(scope).c
+D:\Sam_C_workspace\C_Basic\CH06(function,struct)\function3(scope).c(10,2): warning C4013: 'funcA'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\Sam_C_workspace\C_Basic\CH06(function,struct)\function3(scope).c(12,2): warning C4013: 'funcB'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\Sam_C_workspace\C_Basic\CH06(function,struct)\function3(scope).c(15,2): warning C4013: 'funcD'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\Sam_C_workspace\C_Basic\CH06(function,struct)\function3(scope).c(36): warning C4716: 'funcA': 값을 반환해야 합니다.
+D:\Sam_C_workspace\C_Basic\CH06(function,struct)\function3(scope).c(29): warning C4716: 'funcD': 값을 반환해야 합니다.
+D:\Sam_C_workspace\C_Basic\CH06(function,struct)\function3(scope).c(45): warning C4716: 'funcB': 값을 반환해야 합니다.
+  CH06(function,struct).vcxproj -> D:\Sam_C_workspace\C_Basic\CH06(function,struct)\x64\Debug\CH06(function,struct).exe

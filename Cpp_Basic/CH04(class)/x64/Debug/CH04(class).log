@@ -1,0 +1,4 @@
+﻿  struct2.cpp
+D:\Sam_C++_Workspace\Cpp_Basic\CH04(class)\struct2.cpp(27,56): warning C4838: 'int'에서 'bool'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\Sam_C++_Workspace\Cpp_Basic\CH04(class)\struct2.cpp(27,64): warning C4305: '초기화 중': 'int'에서 'bool'(으)로 잘립니다.
+  CH04(class).vcxproj -> D:\Sam_C++_Workspace\Cpp_Basic\CH04(class)\x64\Debug\CH04(class).exe
