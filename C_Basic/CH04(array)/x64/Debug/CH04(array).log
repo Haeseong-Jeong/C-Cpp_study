@@ -1,3 +1,0 @@
-﻿  array1.c
-D:\Sam_C_workspace\C_Basic\CH04(array)\array1.c(11,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  CH04(array).vcxproj -> D:\Sam_C_workspace\C_Basic\CH04(array)\x64\Debug\CH04(array).exe
